@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+### [5.1.3](https://github.com/Fdawgs/node-poppler/compare/v5.1.2...v5.1.3) (2022-02-22)
+
+
+### Miscellaneous
+
+* **.github:** remove trailing whitespace ([aee8872](https://github.com/Fdawgs/node-poppler/commit/aee8872c62b5f66e83d75915a325be6bfd32ee76))
+
+
+### Dependencies
+
+* **dependabot:** ignore minor and patch commit-lint updates ([#380](https://github.com/Fdawgs/node-poppler/issues/380)) ([b5ff45f](https://github.com/Fdawgs/node-poppler/commit/b5ff45f603697b66155d488579c47dee34ad5f2f))
+* **dependabot:** major tags no longer need ignore support ([579cea2](https://github.com/Fdawgs/node-poppler/commit/579cea2c0e36d200fb5981529b0fb092e99d6c67))
+* **dependabot:** use default open-pull-requests-limit value ([eebb453](https://github.com/Fdawgs/node-poppler/commit/eebb4537a299fa6d2a01c2621db619d298c933cc))
+* **deps-dev:** bump eslint-plugin-jest from 25.7.0 to 26.0.0 ([321e7d0](https://github.com/Fdawgs/node-poppler/commit/321e7d0221d67be7ccf2ab12bbbb95d20c96a7a3))
+
 ### [5.1.2](https://github.com/Fdawgs/node-poppler/compare/v5.1.1...v5.1.2) (2022-01-19)
 
 
