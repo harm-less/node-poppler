@@ -769,7 +769,7 @@ class Poppler {
 						reject(new Error(stdErr.trim()));
 					} else {
 						/* istanbul ignore next */
-						reject(new Error(errorMessages[code]));
+						reject(new Error(code));
 					}
 				});
 			});
